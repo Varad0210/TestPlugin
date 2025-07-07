@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/core_1.0.0.202507071746.jar" id="core" version="1.0.0.202507071746">
+      <category name="core"/>
+   </feature>
+   <feature url="features/jenkins_1.0.0.202507071746.jar" id="jenkins" version="1.0.0.202507071746">
+      <category name="jenkins"/>
+   </feature>
+   <category-def name="core" label="Core feature"/>
+   <category-def name="jenkins" label="Jenkins"/>
+</site>
