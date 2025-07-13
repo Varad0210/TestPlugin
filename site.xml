@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/core_1.0.0.202507131654.jar" id="core" version="1.0.0.202507131654"/>
-   <feature url="features/jenkins_1.0.0.202507131654.jar" id="jenkins" version="1.0.0.202507131654"/>
+   <feature url="features/core_1.0.0.202507131730.jar" id="core" version="1.0.0.202507131730"/>
+   <feature url="features/jenkins_1.0.0.202507131730.jar" id="jenkins" version="1.0.0.202507131730"/>
 </site>
