@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/Analysis_1.0.0.202508161937.jar" id="Analysis" version="1.0.0.202508161937"/>
+   <feature url="features/Core_1.0.0.202508161937.jar" id="Core" version="1.0.0.202508161937"/>
+   <feature url="features/Jenkins_1.0.0.202508161937.jar" id="Jenkins" version="1.0.0.202508161937"/>
+</site>
