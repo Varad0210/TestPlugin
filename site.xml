@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/Core_1.0.0.202601201850.jar" id="Core" version="1.0.0.202601201850">
-      <category name="CSC 216"/>
+   <feature url="features/CSC216_2.1.0.jar" id="CSC216" version="2.1.0">
+      <category name="CSC216"/>
    </feature>
-   <feature url="features/Jenkins_1.0.0.202601201850.jar" id="Jenkins" version="1.0.0.202601201850">
-      <category name="CSC 216"/>
-   </feature>
-   <category-def name="CSC 216" label="CSC 216"/>
+   <category-def name="CSC216" label="CSC216"/>
 </site>
