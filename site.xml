@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/CSC216_2.1.0.jar" id="CSC216" version="2.1.0">
+   <feature url="features/CSC216_1.0.0.202601221426.jar" id="CSC216" version="1.0.0.202601221426">
       <category name="CSC216"/>
    </feature>
+   <feature url="features/CSC316_1.0.0.202601221426.jar" id="CSC316" version="1.0.0.202601221426">
+      <category name="CSC316"/>
+   </feature>
    <category-def name="CSC216" label="CSC216"/>
+   <category-def name="CSC316" label="CSC316"/>
 </site>
